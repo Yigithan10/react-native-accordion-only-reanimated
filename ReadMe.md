@@ -5,7 +5,7 @@ My build versions:
 ## Installation
 
 ```bash
-  npm install react-native-accordion-only-reanimated
+npm install react-native-accordion-only-reanimated
 ```
 
 ## Doc
